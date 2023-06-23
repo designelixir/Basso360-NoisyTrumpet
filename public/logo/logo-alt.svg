@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 355.52 355.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #151515;
+        font-family: var(--font-heading);
+        font-size: 83px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: url(#BY);
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <linearGradient id="BY" x1="80.05" y1="179.87" x2="275.47" y2="179.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#945045"></stop>
+      <stop offset="1" stop-color="#945045"></stop>
+    </linearGradient>
+  </defs>
+  <text class="cls-1" transform="translate(175.56 62.21) rotate(11.28)">
+    <tspan x="0" y="0">3</tspan>
+  </text>
+  <text class="cls-1" transform="translate(220.26 70.24) rotate(34.05)">
+    <tspan x="0" y="0">6</tspan>
+  </text>
+  <text class="cls-1" transform="translate(258.4 94.97) rotate(56.63)">
+    <tspan x="0" y="0">0</tspan>
+  </text>
+  <text class="cls-1" transform="translate(284.12 132.39) rotate(79.39)">
+    <tspan x="0" y="0"> </tspan>
+  </text>
+  <text class="cls-1" transform="translate(293.35 176.9) rotate(101.95)">
+    <tspan x="0" y="0">A</tspan>
+  </text>
+  <text class="cls-1" transform="translate(284.8 221.5) rotate(124.71)">
+    <tspan x="0" y="0">D</tspan>
+  </text>
+  <text class="cls-1" transform="translate(259.66 259.34) rotate(147.27)">
+    <tspan x="0" y="0">V</tspan>
+  </text>
+  <text class="cls-1" transform="translate(221.92 284.65) rotate(170.05)">
+    <tspan x="0" y="0">E</tspan>
+  </text>
+  <text class="cls-1" transform="translate(177.32 293.37) rotate(-167.39)">
+    <tspan x="0" y="0">R</tspan>
+  </text>
+  <text class="cls-1" transform="translate(132.81 284.3) rotate(-144.64)">
+    <tspan x="0" y="0">T</tspan>
+  </text>
+  <text class="cls-1" transform="translate(95.25 258.71) rotate(-122.06)">
+    <tspan x="0" y="0">I</tspan>
+  </text>
+  <text class="cls-1" transform="translate(70.4 220.72) rotate(-99.3)">
+    <tspan x="0" y="0">S</tspan>
+  </text>
+  <text class="cls-1" transform="translate(62.18 176.01) rotate(-76.73)">
+    <tspan x="0" y="0">I</tspan>
+  </text>
+  <text class="cls-1" transform="translate(71.76 131.61) rotate(-53.98)">
+    <tspan x="0" y="0">N</tspan>
+  </text>
+  <text class="cls-1" transform="translate(97.76 94.35) rotate(-31.41)">
+    <tspan x="0" y="0">G</tspan>
+  </text>
+  <circle class="cls-2" cx="177.76" cy="179.87" r="96.21"></circle>
+</svg>
